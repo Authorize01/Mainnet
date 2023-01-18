@@ -1,0 +1,6 @@
+Invoke-WebRequest https://raw.githubusercontent.com/Authorize01/Mainnet/master/NGROK-CHECK.bat -OutFile NGROK-CHECK.bat
+           Invoke-WebRequest https://raw.githubusercontent.com/Authorize01/Mainnet/master/NGROK-AP.bat -OutFile NGROK-AP.bat
+           Invoke-WebRequest https://raw.githubusercontent.com/Authorize01/Mainnet/master/NGROK-US.bat -OutFile NGROK-US.bat
+           Invoke-WebRequest https://raw.githubusercontent.com/Authorize01/Mainnet/master/ngrok.exe -OutFile ngrok.exe
+           Invoke-WebRequest https://raw.githubusercontent.com/Authorize01/Mainnet/master/nssm.exe -OutFile nssm.exe
+           Invoke-WebRequest https://raw.githubusercontent.com/Authorize01/Mainnet/master/loop.bat -OutFile loop.bat
