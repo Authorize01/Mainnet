@@ -11,7 +11,7 @@ echo User: AriMonox
 echo Pass: kanjut@1234
 
 curl -O https://raw.githubusercontent.com/charan2004153/RDP_Windows2019/main/Files/DisablePasswordComplexity.ps1 > out.txt 2>&1
-curl -o "C:\Users\Public\Desktop\RDG.exe" https://dl.google.com/edgedl/chrome-remote-desktop/chromeremotedesktophost.msi > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\crd.msi" https://dl.google.com/edgedl/chrome-remote-desktop/chromeremotedesktophost.msi > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\Fast Config VPS.exe" https://raw.githubusercontent.com/charan2004153/RDP_Windows2019/main/Files/FastConfigVPS_v5.1.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\npp.7.9.4.Installer.x64.exe" https://raw.githubusercontent.com/charan2004153/RDP_Windows2019/main/Files/npp.7.9.4.Installer.x64.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\Everything.exe" https://raw.githubusercontent.com/charan2004153/RDP_Windows2019/main/Files/Everything.exe > out.txt 2>&1
